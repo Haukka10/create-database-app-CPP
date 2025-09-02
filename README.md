@@ -7,7 +7,7 @@ Instead of writing everything by hand, you can generate SQL scripts tailored to 
 After downloading a app form the release find a app name "Create database app C++ Remake" and open it.
 
 ## Instruction
-Press button open app click buton "Make SQL files" after press this button with be new windows
+Press buton "Make SQL files" after press this button with be new windows
 
 <img width="1258" height="755" alt="Screenshot 2025-09-02 155118" src="https://github.com/user-attachments/assets/318649bf-b136-4f7a-be3d-c51ff4ec9642" />
 
