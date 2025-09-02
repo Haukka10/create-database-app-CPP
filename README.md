@@ -1,9 +1,12 @@
-This app help you with making SQL files for your database
+## SQL File Generator
+This app helps you create SQL files for your database quickly and easily.
+Instead of writing everything by hand, you can generate SQL scripts tailored to your needs—making database setup faster and more consistent.
 
+## How to Download && Installation
 <b>How to open the app, go to Release and download the version you want</b>
-
 After downloading a app form the release find a app name "Create database app C++ Remake" and open it.
 
+## Instruction
 Press button open app click buton "Make SQL files" after press this button with be new windows
 
 <img width="1258" height="755" alt="Screenshot 2025-09-02 155118" src="https://github.com/user-attachments/assets/318649bf-b136-4f7a-be3d-c51ff4ec9642" />
